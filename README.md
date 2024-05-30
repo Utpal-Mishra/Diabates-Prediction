@@ -1,2 +1,2 @@
-# Diabates-Prediction
-Diabates-Prediction-Using-Prima-Diabetes-Data
+# Diabetes-Prediction
+Diabetes-Prediction-Using-Prima-Diabetes-Data
